@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @phuongnam281204 aka Trần Phương Nam<h1>
+<h1>👋 Hi, I’m @phuongnam281204 aka Trần Phương Nam (T6C3)<h1>
  <p align="center"><em>Back-end Developer</em></p>
 <p align="center">
   <a href="https://www.facebook.com/namphuongtran2812"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
