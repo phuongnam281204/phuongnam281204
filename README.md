@@ -1,12 +1,12 @@
 <h1>👋 Hi, I’m @phuongnam281204 aka Trần Phương Nam <h1>
- <p align="center"><em>Fontend Developer</em></p>
+ <p align="center"><em>Frontend Developer</em></p>
 <p align="center">
   <a href="https://www.facebook.com/namphuongtran2812"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
  <a href="https://www.instagram.com/nemtran2812?igsh=NmN3dGY0bmpoN2ts" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=55aeff&center=true&vCenter=true&width=435&lines=Back-end+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=55aeff&center=true&vCenter=true&width=435&lines=Front-end+Developer" alt="Typing SVG" />
 </p>
 
 ## 💻 Core Technologies
